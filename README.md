@@ -9,7 +9,3 @@ This repository houses a plant detection prototype developed for the Smart India
 - Provision of an intuitive app and web-based platform for user-friendly interactions.
 - Accessibility features, including an offline mode for users in remote areas.
 
-### Installation
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/yashwaldia/Plant-Detection
